@@ -2,6 +2,10 @@ html {
   scroll-behavior: smooth;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   font-family: "Cairo", "Verdana", sans-serif;
   padding: 0;
